@@ -7,8 +7,8 @@ Currently, only basic modes, team modes, and ctf modes are supported.
 
 ## Installation
 
-`npm install simple-sauer-client --save`  
-`var simpleSauerClient = require('simple-sauer-client');`
+`npm install AngrySnout/SimpleSauerClient --save`  
+`var simpleSauerClient = require('SimpleSauerClient');`
 
 ## Client usage
 

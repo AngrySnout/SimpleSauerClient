@@ -3,6 +3,8 @@
   "description": "Partial Sauerbraten client implementation in JavaScript.",
   "version": "0.0.1",
   "author": "AngrySnout <hreudontdy@gmail.com>",
+	"repository": "AngrySnout/SimpleSauerClient",
+	"license" : "MIT",
   "main": "index.js",
   "node": "0.10.x",
   "dependencies": {
