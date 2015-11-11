@@ -1,0 +1,11 @@
+{
+  "name": "SimpleSauerClient",
+  "description": "Partial Sauerbraten client implementation in JavaScript.",
+  "version": "0.0.1",
+  "author": "AngrySnout <hreudontdy@gmail.com>",
+  "main": "index.js",
+  "node": "0.10.x",
+  "dependencies": {
+    "enet": "^0.2.6"
+  }
+}
