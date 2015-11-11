@@ -1,6 +1,6 @@
 /*
 	A Sauerbraten client example.
-	This program prompts the user for a server host/ip and player name, connects to it, and prints server info messages.
+	This program (should prompt the user) for a server host/ip and player name, connects to it, and prints server info messages.
 */
 
 var simpleSauerClient = require("../index.js");
