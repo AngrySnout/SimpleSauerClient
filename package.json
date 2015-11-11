@@ -1,7 +1,7 @@
 {
   "name": "SimpleSauerClient",
   "description": "Partial Sauerbraten client implementation in JavaScript.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "AngrySnout <hreudontdy@gmail.com>",
 	"repository": "AngrySnout/SimpleSauerClient",
 	"license" : "MIT",
