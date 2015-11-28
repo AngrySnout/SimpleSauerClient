@@ -115,6 +115,9 @@ For every packet received, an event with the name 'packet.N_NAME', where N_NAME 
 - `Client.on('spawn', function (player) {...})`  
     Emitted when a player spawns.
 
+- `Client.on('damaged', function (attacker, target, damage) {...})`  
+    Emitted when a player receives damage.
+
 - `Client.on('died', function (player) {...})`  
     Emitted when a player dies.
 
