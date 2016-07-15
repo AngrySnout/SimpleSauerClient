@@ -40,7 +40,7 @@ sauerClient.on("log", console.log);
 */
 sauerClient.on("say", function (player, text) {
 	var ltext = text.toLowerCase();
-	if (ltext.indexOf("mysauerbot" >) -1 && ltext.indexOf("hello" >) -1) {
+	if (ltext.indexOf("mysauerbot") > -1 && ltext.indexOf("hello") > -1) {
 		sauerClient.say("Hello, " + player.name + "!");
 	}
 });
